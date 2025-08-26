@@ -21073,12 +21073,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - Juno2
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8c403e380ed263040a822eb2302c3dae
-    m_Address: "Assets/Models/materials/\uB098\uBB34\uC7A1\uCD08\uAF43/\uB098\uBB3401.mat"
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Foliage
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8c435d69e064b964d8f1ba37ab75f839
     m_Address: "Assets/Models/materials/\uB098\uBB34\uC7A1\uCD08\uAF43/\uD654\uBD8401.mat"
     m_ReadOnly: 0
