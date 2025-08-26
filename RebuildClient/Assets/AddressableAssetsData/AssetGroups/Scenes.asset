@@ -2555,6 +2555,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Maps
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebca6124f6559c648a5fbd85ebbcca26
+    m_Address: Assets/Scenes/Maps/prt_fild08.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Maps
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ec50f33c472cf204e8d5a4e8ea4e8e80
     m_Address: Assets/Scenes/Maps/gl_prison1.unity
     m_ReadOnly: 0

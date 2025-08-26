@@ -53241,6 +53241,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f29754c13a198c46b8bd741a26ed374
+    m_Address: Assets/Maps/minimap/prt_fild08.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7f2d5c0a85ffd294c8fdebffb97ec8c4
     m_Address: "Assets/Sprites/Icons/\uBC84\uC12F\uD3EC\uC790.spr"
     m_ReadOnly: 0
@@ -54563,6 +54569,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82b3ebe3d48c95945901719a101a02df
+    m_Address: Assets/Maps/minimap/prt_fild08_walkmask.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minimap
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 82c05983e0e3e774ea6454f6b0438bdb
     m_Address: Assets/Sprites/Cutins/ep19_iwin07.png
