@@ -1765,7 +1765,7 @@ MonoBehaviour:
   Color: {r: 1, g: 1, b: 1, a: 0}
   Direction: 0
   SpriteOffset: 0
-  SpriteData: {fileID: 11400000, guid: 4f91e5e51a8b69343b01f41d16b75ad8, type: 2}
+  SpriteData: {fileID: 0}
   OffsetPosition: {x: 8, y: -7}
 --- !u!222 &3697442325909093530
 CanvasRenderer:
