@@ -123,3 +123,5 @@ Other/RoWikiGenerator/wwwroot/regions/
 Other/RebuildTests/
 Other/RoWikiGenerator/Microsoft.CodeAnalysis.Razor.Compiler/
 RebuildClient/Assets/StreamingAssets/ClientConfigGenerated/
+RoRebuildServer/RRMM.WpfLauncher/bin/Debug/net8.0-windows/RRMM.WpfLauncher.exe
+RoRebuildServer/RRMM.WpfLauncher/bin/Debug/net8.0-windows/RRMM.WpfLauncher.dll
